@@ -22,5 +22,6 @@
 
 Адрес будущего сайта: `https://Anasteziya0.github.io/devops-docs/`.
 
-[Битая ссылка](nonexistent.md)
+Перед восстановлением изучите [журнал типовых инцидентов](incidents.md).
+
 
